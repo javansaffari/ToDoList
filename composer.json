@@ -1,0 +1,19 @@
+{
+    "name": "mohammad/to-do-list",
+    "description": "A simpe Todo List Project (with PHP, Mysql and Ajax)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohammad\\ToDoList\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad",
+            "email": "javansaffari@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
